@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |gem|
-  gem.name          = 'spork-testunit'
+  gem.name          = 'martinos-spork-testunit'
   gem.version       = '0.0.8'
   gem.authors       = ['Tim Harper', 'Gopal Patel', 'Martin Chabot']
   gem.email         = ['timcharper+spork@gmail.com', 'nixme@stillhope.com', 'chabotm@gmail.com']
