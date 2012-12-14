@@ -3,9 +3,9 @@
 Gem::Specification.new do |gem|
   gem.name          = 'spork-testunit'
   gem.version       = '0.0.8'
-  gem.authors       = ['Tim Harper', 'Gopal Patel']
-  gem.email         = ['timcharper+spork@gmail.com', 'nixme@stillhope.com']
-  gem.homepage      = 'https://github.com/sporkrb/spork-testunit'
+  gem.authors       = ['Tim Harper', 'Gopal Patel', 'Martin Chabot']
+  gem.email         = ['timcharper+spork@gmail.com', 'nixme@stillhope.com', 'chabotm@gmail.com']
+  gem.homepage      = 'https://github.com/martinos/spork-testunit'
   gem.summary       = %q{Test::Unit runner for spork}
   gem.description   = %q{Spork plugin to enable Test::Unit support.}
 
